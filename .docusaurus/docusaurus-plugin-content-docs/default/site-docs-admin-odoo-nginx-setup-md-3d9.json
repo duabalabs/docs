@@ -1,0 +1,27 @@
+{
+  "id": "admin/odoo-nginx",
+  "title": "Setting Up Odoo with Nginx",
+  "description": "This guide will walk you through setting up Odoo with Nginx as a reverse proxy.",
+  "source": "@site/docs/admin/odoo-nginx-setup.md",
+  "sourceDirName": "admin",
+  "slug": "/admin/odoo-nginx",
+  "permalink": "/docs/admin/odoo-nginx",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/admin/odoo-nginx-setup.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "odoo-nginx",
+    "title": "Setting Up Odoo with Nginx"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Action items",
+    "permalink": "/docs/admin/action items/Action items d74f218229d94650927fbb54995f401e"
+  },
+  "next": {
+    "title": "Setting Up Odoo with Nginx",
+    "permalink": "/docs/admin/odoo-nginx"
+  }
+}
