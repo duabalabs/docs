@@ -52,7 +52,7 @@ export default {
           "type": "docSidebar",
           "sidebarId": "tutorialSidebar",
           "position": "left",
-          "label": "Tutorial"
+          "label": "Duaba Labs docs"
         },
         {
           "to": "/blog",
