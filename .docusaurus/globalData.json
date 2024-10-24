@@ -16,6 +16,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "admin/decision time/Decision time d8f269437e6d4c5d9824bd2f113f3115",
+              "path": "/docs/admin/decision time/Decision time d8f269437e6d4c5d9824bd2f113f3115",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "admin/odoo-nginx",
               "path": "/docs/admin/odoo-nginx",
               "sidebar": "tutorialSidebar"
@@ -23,6 +28,11 @@
             {
               "id": "admin/odoo-nginx",
               "path": "/docs/admin/odoo-nginx",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "admin/scratch page/Scratch page 65ab14e4f9a6415db12ce42f09dccf3e",
+              "path": "/docs/admin/scratch page/Scratch page 65ab14e4f9a6415db12ce42f09dccf3e",
               "sidebar": "tutorialSidebar"
             },
             {

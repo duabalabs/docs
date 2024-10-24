@@ -194,22 +194,26 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-d28": {
+  "/docs-00e": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-b90": {
+  "/docs-546": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-250": {
+  "/docs-936": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/admin/action items/Action items d74f218229d94650927fbb54995f401e-216": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-admin-action-items-action-items-d-74-f-218229-d-94650927-fbb-54995-f-401-e-6-e-8-c10"
+  },
+  "/docs/admin/decision time/Decision time d8f269437e6d4c5d9824bd2f113f3115-d7a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-admin-decision-time-decision-time-d-8-f-269437-e-6-d-4-c-5-d-9824-bd-2-f-113-f-3115-c-3-e-309"
   },
   "/docs/admin/odoo-nginx-f9f": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -218,6 +222,10 @@
   "/docs/admin/odoo-nginx-990": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-admin-odoo-nginxfae-efb"
+  },
+  "/docs/admin/scratch page/Scratch page 65ab14e4f9a6415db12ce42f09dccf3e-a30": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-admin-scratch-page-scratch-page-65-ab-14-e-4-f-9-a-6415-db-12-ce-42-f-09-dccf-3-e-27-b-2ff"
   },
   "/docs/intro-61d": {
     "__comp": "__comp---theme-doc-item-178-a40",

@@ -99,19 +99,25 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'd28'),
+    component: ComponentCreator('/docs', '00e'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'b90'),
+        component: ComponentCreator('/docs', '546'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '250'),
+            component: ComponentCreator('/docs', '936'),
             routes: [
               {
                 path: '/docs/admin/action items/Action items d74f218229d94650927fbb54995f401e',
                 component: ComponentCreator('/docs/admin/action items/Action items d74f218229d94650927fbb54995f401e', '216'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/admin/decision time/Decision time d8f269437e6d4c5d9824bd2f113f3115',
+                component: ComponentCreator('/docs/admin/decision time/Decision time d8f269437e6d4c5d9824bd2f113f3115', 'd7a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -124,6 +130,12 @@ export default [
               {
                 path: '/docs/admin/odoo-nginx',
                 component: ComponentCreator('/docs/admin/odoo-nginx', '990'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/admin/scratch page/Scratch page 65ab14e4f9a6415db12ce42f09dccf3e',
+                component: ComponentCreator('/docs/admin/scratch page/Scratch page 65ab14e4f9a6415db12ce42f09dccf3e', 'a30'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

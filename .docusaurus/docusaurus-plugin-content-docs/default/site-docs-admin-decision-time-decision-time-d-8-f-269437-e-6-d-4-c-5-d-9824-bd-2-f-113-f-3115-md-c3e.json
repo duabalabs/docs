@@ -1,0 +1,24 @@
+{
+  "id": "admin/decision time/Decision time d8f269437e6d4c5d9824bd2f113f3115",
+  "title": "Decision time",
+  "description": "Sip trunk",
+  "source": "@site/docs/admin/decision time/Decision time d8f269437e6d4c5d9824bd2f113f3115.md",
+  "sourceDirName": "admin/decision time",
+  "slug": "/admin/decision time/Decision time d8f269437e6d4c5d9824bd2f113f3115",
+  "permalink": "/docs/admin/decision time/Decision time d8f269437e6d4c5d9824bd2f113f3115",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/admin/decision time/Decision time d8f269437e6d4c5d9824bd2f113f3115.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Action items",
+    "permalink": "/docs/admin/action items/Action items d74f218229d94650927fbb54995f401e"
+  },
+  "next": {
+    "title": "Setting Up Odoo with Nginx",
+    "permalink": "/docs/admin/odoo-nginx"
+  }
+}

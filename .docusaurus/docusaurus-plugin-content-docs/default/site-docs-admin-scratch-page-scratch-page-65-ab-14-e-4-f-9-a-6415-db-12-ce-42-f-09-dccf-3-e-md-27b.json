@@ -1,0 +1,20 @@
+{
+  "id": "admin/scratch page/Scratch page 65ab14e4f9a6415db12ce42f09dccf3e",
+  "title": "Scratch page",
+  "description": "Odoo CRM????",
+  "source": "@site/docs/admin/scratch page/Scratch page 65ab14e4f9a6415db12ce42f09dccf3e.md",
+  "sourceDirName": "admin/scratch page",
+  "slug": "/admin/scratch page/Scratch page 65ab14e4f9a6415db12ce42f09dccf3e",
+  "permalink": "/docs/admin/scratch page/Scratch page 65ab14e4f9a6415db12ce42f09dccf3e",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/admin/scratch page/Scratch page 65ab14e4f9a6415db12ce42f09dccf3e.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Setting Up Odoo with Nginx",
+    "permalink": "/docs/admin/odoo-nginx"
+  }
+}
